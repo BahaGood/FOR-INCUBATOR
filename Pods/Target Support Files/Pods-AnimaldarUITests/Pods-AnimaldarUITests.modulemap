@@ -1,0 +1,6 @@
+framework module Pods_AnimaldarUITests {
+  umbrella header "Pods-AnimaldarUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
